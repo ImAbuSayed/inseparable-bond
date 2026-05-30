@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/inseparable-bond/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Inseparable Bond](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/inseparable-bond/) |
+| **Get License** | [Request Licensing for Inseparable Bond](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/inseparable-bond/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6c818f3da0eb35ddf4df2a4be19e4dd1d18534577aeccbbb6e9975a7f4ce0bf4` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
